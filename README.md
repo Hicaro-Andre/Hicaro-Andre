@@ -1,6 +1,6 @@
 <div align="center" style="font-family: Arial, sans-serif;">
-    <h1 style="color: #4A90E2; font-size: 2.5em;">Opa, eu sou o Hicaro André! 🚀</h1>
-    <h2 style="color: #333; font-size: 1.5em;">Desenvolvedor Web apaixonado por tecnologia!</h2>
+    <h1 style="color: #4A90E2; font-size: 2.0em;">Opa, eu sou o Hicaro André! 🚀</h1>
+    <h2 style="color: #333; font-size: 1.0em;">Desenvolvedor Web apaixonado por tecnologia!</h2>
     
   
 
