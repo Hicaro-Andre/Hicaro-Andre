@@ -40,12 +40,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="70" height="60"/>
 </p>
 
----
-
-### 🌎 Conecte-se comigo:
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hicaroandre)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicaroandre/)
-[![Telegram](https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/https://web.telegram.org/a/](https://web.telegram.org/k/))
-
 </div>
