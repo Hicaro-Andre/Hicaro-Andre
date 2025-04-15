@@ -1,6 +1,6 @@
 <div align="center" style="font-family: Arial, sans-serif;">
     <h1 style="color: #4A90E2; font-size: 2.0em;">Opa, eu sou o Hicaro André! 🚀</h1>
-    <p style="color: #333; font-size: 1.0em;">Esperiente em Front-end com expertise em Back-end. Apaixonado por tecnologia e por transformar ideias em soluções que impactam vidas!</p>
+    <p style="color: #333; font-size: 1.0em;">Desenvolvedor Full Stack com foco em criar interfaces modernas e arquiteturas robustas. Apaixonado por tecnologia e por transformar ideias em soluções funcionais que impactam vidas e geram valor real</p>
     
 ---
 
