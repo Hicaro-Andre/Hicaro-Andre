@@ -4,8 +4,6 @@
     
 ---
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hicaro-Andre&show_icons=true&theme=dark) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hicaro-Andre&layout=compact&theme=dark) |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 ### 🚀 Tecnologias que utilizo:
 <p align="center">
   <!-- VSCode -->
@@ -40,4 +38,24 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
+</div>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Hicaro-Andre&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="150" alt="Estatísticas do GitHub" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hicaro-Andre&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="Gráfico de Linguagens" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hicaro-Andre&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="Gráfico de Atividades" />
 </div>
