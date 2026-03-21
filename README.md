@@ -41,18 +41,13 @@
 </div>
 
 
-<!-- <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Hicaro-Andre&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="150" alt="Estatísticas do GitHub" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hicaro-Andre&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="Gráfico de Linguagens" />
-      </td>
-    </tr>
-  </table>
-</div> -->
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Hicaro-Andre&layout=compact&langs_count=6&theme=github_dark&hide_border=true" 
+    height="150" 
+    alt="Linguagens mais usadas" 
+  />
+</div>
 
 
 
