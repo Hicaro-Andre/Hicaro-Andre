@@ -59,19 +59,19 @@ Apaixonado por tecnologia e por transformar ideias em soluções reais que geram
 
 <div align="start">
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:hicaroandre@hotmail.com">
   <img src="https://img.shields.io/badge/Email-4A90E2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/5598999999999">
+<a href="https://wa.me/5598984245018">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/SEUUSUARIO">
+<a href="https://www.instagram.com/hicaroandre/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/SEULINK">
+<a href="https://www.linkedin.com/in/hicaroandre/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -88,7 +88,7 @@ Quer conhecer mais sobre meus projetos, experiências e habilidades?
 Acesse meu portfólio completo 👇
 </p>
 
-<a href="https://SEU-PORTIFOLIO.com" target="_blank">
+<a href="https://hicaro-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Acessar%20Portfólio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
