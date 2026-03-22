@@ -59,7 +59,7 @@ Apaixonado por tecnologia e por transformar ideias em soluções reais que geram
 
 <div align="start">
 
-<a href="mailto:hicaroandre@gmail.com">
+<a href="mailto:hicaroandrehotmail.com">
   <img src="https://img.shields.io/badge/Email-4A90E2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
