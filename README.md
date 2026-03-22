@@ -1,55 +1,96 @@
-<div align="center" style="font-family: Arial, sans-serif;">
-    <h1 style="color: #4A90E2; font-size: 2.0em;">Opa, eu sou o Hicaro André! 🚀</h1>
-    <p style="color: #333; font-size: 1.0em;">Desenvolvedor Full Stack com foco em criar interfaces modernas e arquiteturas robustas. Apaixonado por tecnologia e por transformar ideias em soluções funcionais que impactam vidas e geram valor real</p>
-    
----
+<div align="center">
 
-### 🚀 Tecnologias que utilizo:
-<p align="center">
+<h1 style="color:#4A90E2;">Olá, eu sou o Hicaro André 🚀</h1>
 
-<!-- HTML -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-<!-- CSS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-<!-- Tailwind CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-<!-- Bootstrap -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-<!-- Sass -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-<!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<!-- JavaScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-<!-- TypeScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>
-<!-- React -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<!-- Next.js -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-<!-- Node.js -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="40" height="40"/>
-<!-- Storyblok -->
-<!-- <img src="https://seeklogo.com/images/S/storyblok-icon-logo-6D3DEB2B74-seeklogo.com.png" alt="Storyblok" width="70" height="60"/> -->
-<!-- MySQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-<!-- MongoDB -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+<p>
+Desenvolvedor Full Stack focado em criar interfaces modernas e arquiteturas robustas.  
+Apaixonado por tecnologia e por transformar ideias em soluções reais que geram impacto.
 </p>
 
 </div>
 
+---
+
+### 🚀 Tecnologias
+
+<div align="start">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<div align="start">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Hicaro-Andre&layout=compact&langs_count=6&theme=transparent&hide_border=true" 
+  height="150"
+/>
+
+<br/>
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Hicaro-Andre&layout=compact&langs_count=6&theme=github_dark&hide_border=true" 
-    height="150" 
-    alt="Linguagens mais usadas" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Hicaro-Andre&radius=16&theme=github-dark&area=true&hide_border=true" 
+    height="300"
   />
 </div>
 
+</div>
 
+---
+
+### 📬 Contato
+
+<div align="start">
+
+<a href="mailto:SEUEMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-4A90E2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5598999999999">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/SEUUSUARIO">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/SEULINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 🌐 Mais informações
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hicaro-Andre&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="Gráfico de Atividades" />
+
+<p>
+Quer conhecer mais sobre meus projetos, experiências e habilidades?  
+Acesse meu portfólio completo 👇
+</p>
+
+<a href="https://SEU-PORTIFOLIO.com" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Portfólio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
+
