@@ -66,20 +66,28 @@ Apaixonado por tecnologia e por transformar ideias em soluções reais que geram
 
 ---
 
-<div align="center">
+<div align="start">
   <table>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hicaro-Andre&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="300"/>
-      </td>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hicaro-Andre&radius=Hicaro-Andre&radius=16&theme=github-dark&area=true&hide_border=true" height="400"/>
       </td>
     </tr>
   </table>
 </div>
 
 ---
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hicaro-Andre&radius=16&theme=github-dark&area=true&hide_border=true" height="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <div align="center">
 
